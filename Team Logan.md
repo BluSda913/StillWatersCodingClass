@@ -1,4 +1,4 @@
-# Team Logan: Install minecraft to code a working analog clock.
+# Install Minecraft to code a working analog clock.
 
 Instruction Borrowed:
 https://www.stuffaboutcode.com/p/minecraft.html

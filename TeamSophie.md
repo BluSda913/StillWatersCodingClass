@@ -9,5 +9,7 @@ https://magpi.raspberrypi.org/articles/raspberry-pi-lego-mindstorms
 - LEGO Mindstorms lego Pieces
 - Dominos
 - Ping Pong ball
+- Monitor
+- Mouse/Keyboard
 
 ( Use your imagination for this, The course has to be longer than 3 feet, also get creative )

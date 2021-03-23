@@ -1,4 +1,4 @@
-# Team Sophie: Connect the LEGO Mindstorms NXT Brick to the Raspberry Pi.
+# Connect the LEGO Mindstorms NXT Brick to the Raspberry Pi.
 
 Instruction Borrowed:
 https://magpi.raspberrypi.org/articles/raspberry-pi-lego-mindstorms

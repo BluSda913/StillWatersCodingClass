@@ -15,7 +15,8 @@ https://github.com/Botspot/pi-apps
 First Pi-Apps needs to be installed
  
 open terminal then copy the link to the terminal
-wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash
+
+`wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash`
 
 To run pi apps Menu->accessories->Pi-Apps.
 

@@ -1,4 +1,4 @@
-# Install Minecraft to code a working analog clock.
+# Team Logan: Install minecraft to code a working analog clock.
 
 Instruction Borrowed:
 https://www.stuffaboutcode.com/p/minecraft.html
@@ -21,4 +21,10 @@ open terminal then copy the link to the terminal
 To run pi apps Menu->accessories->Pi-Apps.
 
 ### Minecraft Pi
-to install minecraft Pi Pi_apps needs to be opened. navigate to Game->Minecraft Pi(modded) then click install. 
+Pi_apps needs to be opened. navigate to Game->Minecraft Pi(modded) then click install. 
+
+
+To uninstall Minecraft Pi. Navigate to Game->Minecraft Pi(modded) then click uninstall.
+
+
+To run Minecraft Menu->Games->mcpdil

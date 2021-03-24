@@ -16,4 +16,12 @@ To open minecraft navigate to Menu->Games->Minecraft Pi.
 
 (Opening Minecraft in the Terminal: open Terminal type `minecraft-pi`)
 
-### co
+### How to Connect Minecraft Pi to the Terminal 
+
+Note: Minecraft has to be opened for this to work
+
+Open Thonny Python IDE. Open a new file, then type 
+
+`import mcpi.minecraft
+
+mc = mcpi.minecraft.Minecraft.create();`

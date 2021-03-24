@@ -8,23 +8,8 @@ https://www.stuffaboutcode.com/p/minecraft.html
 - Monitor 
 - Mouse/Keyboard
 
-# How to download Minecraft pi edition(Modded)
-https://github.com/Botspot/pi-apps
+### How to download Minecraft Pi Edition 
 
-### Pi-Apps
-First Pi-Apps needs to be installed
- 
-open terminal then copy the link to the terminal
-
-`wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash`
-
-To run pi apps Menu->accessories->Pi-Apps.
+First navigate to the Menu->Preferences->Recommended Software->Games then find Minecraft to download.
 
 ### Minecraft Pi
-Pi_apps needs to be opened. navigate to Game->Minecraft Pi(modded) then click install. 
-
-
-To uninstall Minecraft Pi. Navigate to Game->Minecraft Pi(modded) then click uninstall.
-
-
-To run Minecraft Menu->Games->mcpdil

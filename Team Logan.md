@@ -11,6 +11,9 @@ https://www.stuffaboutcode.com/p/minecraft.html
 ### How to download Minecraft Pi Edition 
 
 First navigate to the Menu->Preferences->Recommended Software->Games then find Minecraft to download.
-To open
+
+To open minecraft navigate to Menu->Games->Minecraft Pi.
+
+(Opening Minecraft in the Terminal: open Terminal type `minecraft-pi`)
 
 ### co

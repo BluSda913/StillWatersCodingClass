@@ -22,6 +22,7 @@ Note: Minecraft has to be opened for this to work
 
 Open Thonny Python IDE. Open a new file, then type 
 
-`import mcpi.minecraft
+`import mcpi.minecraft`
 
-mc = mcpi.minecraft.Minecraft.create();`
+`mc = mcpi.minecraft.Minecraft.create();`
+

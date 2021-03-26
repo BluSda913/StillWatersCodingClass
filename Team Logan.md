@@ -45,21 +45,8 @@ python minecraft-clock.py`
 
 This code is used to download the code directly from https://github.com/martinohanlon/minecraft-clock.git.
 
-### Minecraft Pi Solar System Replica
+### Simple Code to write message in chat 
 
-https://www.stuffaboutcode.com/2013/03/raspberry-pi-minecraft-planetary.html
-
-Note Minecraft has to be opened for this to work
-
-Open the Terminal and type in the following code 
-
-`sudo apt-get install git-core
-cd ~
-git clone https://github.com/martinohanlon/minecraft-planets.git
-cd minecraft-planets
-python minecraft-planets.py`
-
-This code is used to download the code directly from https://github.com/martinohanlon/minecraft-planets.git.
-
-
-
+`import Minecraft
+mc = Minecraft.create()
+mc.postToChat

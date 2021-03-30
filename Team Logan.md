@@ -48,5 +48,5 @@ This code is used to download the code directly from https://github.com/martinoh
 ### Simple Code to write message in chat 
 
 `import mcpi.minecraft
-mc = mcpi.minecraft.Minecraft.create()
-mc.postToChat("AY carambe donde estas bibbiliotechaaaa")`
+ mc = mcpi.minecraft.Minecraft.create()
+ mc.postToChat("AY carambe donde estas bibbiliotechaaaa")`

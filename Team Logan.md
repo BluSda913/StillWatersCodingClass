@@ -37,11 +37,15 @@ Note: Minecraft has to be opened for this to work
 
 Open the Terminal and type in the following code 
 
-`sudo apt-get install git-core
-cd ~
-git clone https://github.com/martinohanlon/minecraft-clock.git
-cd minecraft-clock
-python minecraft-clock.py`
+`sudo apt-get install git-core`
+
+`cd ~`
+
+`git clone https://github.com/martinohanlon/minecraft-clock.git`
+
+`cd minecraft-clock`
+
+`python minecraft-clock.py`
 
 This code is used to download the code directly from https://github.com/martinohanlon/minecraft-clock.git.
 
@@ -51,4 +55,4 @@ This code is used to download the code directly from https://github.com/martinoh
 
  `mc = mcpi.minecraft.Minecraft.create()`
  
- `mc.postToChat("AY carambe donde estas bibbiliotechaaaa")`
+ `mc.postToChat("Hello World")`

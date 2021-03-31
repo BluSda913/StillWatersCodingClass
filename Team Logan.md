@@ -6,7 +6,8 @@ https://www.stuffaboutcode.com/p/minecraft.html
 # Materials List
 - Raspberry Pi 4 
 - Monitor 
-- Mouse/Keyboard
+- Peripherals
+
 # Minecraft Pi
 
 ### How to download Minecraft Pi Edition 

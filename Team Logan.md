@@ -1,4 +1,4 @@
-# Team Logan: Install minecraft to code a working analog clock, and a replica model of the solar system.
+# Team Logan: Install minecraft to code a working analog clock, bring a 3d model from sketchup to minecraft
 
 Instruction Borrowed:
 https://www.stuffaboutcode.com/p/minecraft.html
@@ -30,6 +30,16 @@ Open Thonny Python IDE. Open a new file, then type
  
  After this you should be connected to minecraft.
  
+ this is a simple code to write a message in chat
+ 
+( open Thonny PythonIDE)
+
+`import mcpi.minecraft`
+
+ `mc = mcpi.minecraft.Minecraft.create()`
+ 
+ `mc.postToChat("Hello World")`
+ 
 ### Minecraft Pi Working Analog 
 
 https://www.stuffaboutcode.com/2013/02/raspberry-pi-minecraft-analogue-clock.html
@@ -50,10 +60,5 @@ Open the Terminal and type in the following code
 
 This code is used to download the code directly from https://github.com/martinohanlon/minecraft-clock.git.
 
-### Simple Code to write message in chat 
+### Sketchup 3d Model in Minecraft
 
-`import mcpi.minecraft`
-
- `mc = mcpi.minecraft.Minecraft.create()`
- 
- `mc.postToChat("Hello World")`

@@ -60,5 +60,27 @@ Open the Terminal and type in the following code
 
 This code is used to download the code directly from https://github.com/martinohanlon/minecraft-clock.git.
 
-### Sketchup 3d Model in Minecraft
+### Build Your House in Minecraft
+
+Instructions borrowed: 
+https://gist.github.com/jonwitts/2ac5b12d7231a95f959f0fabd17cd66b
+
+(Open Thonny PythonIDE)
+
+Now that you got a little comfortable with code lets build a house.
+Lets connect to minecraft first.
+
+Use the import command from before, now you are connected.
+
+After you are connected now you need to get your position in Minecraft
+
+`x, y, z = mc.player.getPos()`
+
+define your block palette, discuss with your teammates, and note down, what kind of blocks you want to use to build your house .
+then use this to get the block ID for the blocks
+
+raspberrypi-spy.co.uk/2014/09/raspberry-pi-minecraft-block-id-number-reference/
+
+then in the code write the block name = then the block ID number
+(example: air = 0)
 

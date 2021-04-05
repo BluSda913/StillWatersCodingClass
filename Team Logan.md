@@ -1,4 +1,4 @@
-# Team Logan: Install minecraft to code a working analog clock, bring a 3d model from sketchup to minecraft
+# Team Logan: Install minecraft to code a working analog clock, and Build a House.
 
 Instruction Borrowed:
 https://www.stuffaboutcode.com/p/minecraft.html

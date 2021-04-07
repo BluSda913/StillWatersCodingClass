@@ -81,7 +81,7 @@ After you are connected now you need to get your position in Minecraft
 define your block palette, discuss with your teammates, and note down, what kind of blocks you want to use to build your house .
 then use this to get the block ID for the blocks
 
- raspberrypi-spy.co.uk/2014/09/raspberry-pi-minecraft-block-id-number-reference/
+https://www.raspberrypi-spy.co.uk/2014/09/raspberry-pi-minecraft-block-id-number-reference/
 
 then in the code write the block name = then the block ID number
 (example: air = 0)
@@ -89,6 +89,7 @@ then in the code write the block name = then the block ID number
 IMPORTANT!!!!(BLOCKS YOU NEED TO ADD)
 fence = 85
 glass_pane = 102
+
 ### Lets BUILD!
 
 Clear out your area first 
@@ -110,7 +111,7 @@ Now lets set your house block( choose the block type your team has selected for 
 
 `mc.setBlocks(x-5, y, z-5, x+5, y+9, z+5,)`
 
-hollow it
+hollow it out
 
 `mc.setBlocks(x-4, y, z-4, x+4, y+8, z+4, air)`
 
@@ -134,17 +135,24 @@ Lets add a door
 Lets add windows
 
 `mc.setBlocks(x-5,y+1,z-2,x-5,y+2,z-3,glass_pane)`
+
 `mc.setBlocks(x-5,y+1,z+2,x-5,y+2,z+3,glass_pane)`
+
 `mc.setBlocks(x-5,y+6,z-2,x-5,y+7,z-3,glass_pane)`
+
 `mc.setBlocks(x-5,y+6,z+2,x-5,y+7,z+3,glass_pane)`
+
 `mc.setBlocks(x+5,y+1,z-2,x+5,y+2,z-3,glass_pane)`
+
 `mc.setBlocks(x+5,y+1,z+2,x+5,y+2,z+3,glass_pane)`
+
 `mc.setBlocks(x+5,y+6,z-2,x+5,y+7,z-3,glass_pane)`
+
 `mc.setBlocks(x+5,y+6,z+2,x+5,y+7,z+3,glass_pane)`
 
 Now lets add some stairs to the second floor
 
-create a hole to the second floor 
+Create a hole to the second floor 
 
 `mc.setBlocks(x+3,y+4,z+4,x,y+4,z+3,air)`
 

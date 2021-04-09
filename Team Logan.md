@@ -92,21 +92,20 @@ then in the code write the block name = then the block ID number
 
 House Block( the base your house is made of)
 
--Floor
--Second floor
--Ceiling
--Sides
+- Floor
+- Second floor
+- Ceiling
+- Sides
 
 ### Block ID's you need to add 
 
--air 
--stone 
--fence 
--door
--glass_pane
--stairs_wood 
--stairs_cobblestone
--cobblestone
+- air 
+- stone 
+- fence 
+- door
+- glass_pane
+- stairs_cobblestone
+- cobblestone
 
 ### Lets BUILD!
 

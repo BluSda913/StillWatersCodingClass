@@ -214,8 +214,10 @@ Now the sides( choose the block type your team has selected for the ceiling and 
 
     `mc.setBlocks(x-1-i, y+13-i, z+5, x+1+i, y+13-i, z+5,)`
     
-### Now your house is complete. CONGRAJULATIONS!!!!!!!!
+### Now your house is complete. CONGRATULATIONS!!!!!!!!
 
 Example: this is Jon Witt's (maker of the code) house build. (This should be what the code looks like if done right)
 
  https://gist.github.com/jonwitts/2ac5b12d7231a95f959f0fabd17cd66b
+ 
+ Good Luck Programming Have fun!!!!!!

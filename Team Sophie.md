@@ -28,4 +28,12 @@ start by:
 scan robot->scan->add then follow the instructions on screen to connect. Now everything is connected!
 Now you can start programming.
 
+### Tutorials
 
+Here is a list of links of tutorials to help you get used to the CMC
+
+https://c-stem.ucdavis.edu/motion-control/
+
+https://c-stem.ucdavis.edu/sensors/
+
+Good Luck Programming Have fun!!!!!!

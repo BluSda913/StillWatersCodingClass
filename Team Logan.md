@@ -90,8 +90,7 @@ then in the code write the block name = then the block ID number
 
 ### List of blocks that your team needs to discuss
 
-House Block( the base your house is made of)
-
+- House Block( the base your house is made of)
 - Floor
 - Second floor
 - Ceiling

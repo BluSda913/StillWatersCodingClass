@@ -75,7 +75,7 @@ Lets connect to minecraft first.
 
 Use the import command from before, now you are connected.
 
-After you are connected now you need to get your position in Minecraft
+After you are connected now you need to get your position in Minecraft press tab to release your mouse and write this down in Thonny.
 
 `x, y, z = mc.player.getPos()`
 

@@ -70,6 +70,7 @@ https://gist.github.com/jonwitts/2ac5b12d7231a95f959f0fabd17cd66b
 (Open Thonny PythonIDE)
 
 Now that you got a little comfortable with code lets build a house.
+
 Lets connect to minecraft first.
 
 Use the import command from before, now you are connected.
@@ -78,17 +79,34 @@ After you are connected now you need to get your position in Minecraft
 
 `x, y, z = mc.player.getPos()`
 
-define your block palette, discuss with your teammates, and note down, what kind of blocks you want to use to build your house .
-then use this to get the block ID for the blocks
+define your block palette, discuss with your teammates, and note down, what kind of blocks you want to use to build your house.
+Then use this to get the block ID for the blocks
 
 https://www.raspberrypi-spy.co.uk/2014/09/raspberry-pi-minecraft-block-id-number-reference/
 
 then in the code write the block name = then the block ID number
+
 (example: air = 0)
 
-IMPORTANT!!!!(BLOCKS YOU NEED TO ADD)
-fence = 85
-glass_pane = 102
+### List of blocks that your team needs to discuss
+
+House Block( the base your house is made of)
+
+-Floor
+-Second floor
+-Ceiling
+-Sides
+
+### Block ID's you need to add 
+
+-air 
+-stone 
+-fence 
+-door
+-glass_pane
+-stairs_wood 
+-stairs_cobblestone
+-cobblestone
 
 ### Lets BUILD!
 
@@ -103,8 +121,11 @@ Now lets set the foundations
 Lets add some fences around your house
 
 `mc.setBlocks(x-7, y, z-7, x+7, y, z-7, fence)`
+
 `mc.setBlocks(x-7, y, z-7, x-7, y, z+7, fence)`
+
 `mc.setBlocks(x+7, y, z+7, x+7, y, z-7, fence)`
+
 `mc.setBlocks(x+7, y, z+7, x-7, y, z+7, fence)`
 
 Now lets set your house block( choose the block type your team has selected for the house and put it at the very end) 
@@ -130,6 +151,7 @@ Ceiling( choose the block type your team has selected for the ceiling and put it
 Lets add a door
 
 `mc.setBlock(x-5, y, z, 64, 0)`
+
 `mc.setBlock(x-5, y+1, z, 64, 8)`
 
 Lets add windows
@@ -159,12 +181,15 @@ Create a hole to the second floor
 Now a loop through our steps
 
 `for i in range(5):`
-    `mc.setBlock(x+i-1,y+i,z+3,stairs)`
-    `mc.setBlock(x+i-1,y+i,z+4,stairs)`
+
+    `mc.setBlock(x+i-1,y+i,z+3,stairs_wood)`
+    
+    `mc.setBlock(x+i-1,y+i,z+4,stairs_wood)`
     
 Lets add the stair banistairs
  
 `mc.setBlocks(x-1,y+5,z+4,x-1,y+5,z+2,fence)`
+
 `mc.setBlocks(x-1,y+5,z+2,x+2,y+5,z+2,fence)`
 
 Lets add the roof of the house
@@ -172,22 +197,27 @@ Lets add the roof of the house
 First add the pitches
 
 `for i in range(5):`
-    `mc.setBlocks(x-5+i, y+10+i, z-5, x-5+i, y+10+i, z+5, roof)`
-    `mc.setBlocks(x+5-i, y+10+i, z-5, x+5-i, y+10+i, z+5, roof, 1)`
+
+    `mc.setBlocks(x-5+i, y+10+i, z-5, x-5+i, y+10+i, z+5, cobblestone)`
+    
+    `mc.setBlocks(x+5-i, y+10+i, z-5, x+5-i, y+10+i, z+5, cobblestone, 1)`
     
 Now the top of the roof 
 
-`mc.setBlocks(x, y+14, z-5, x, y+14, z+5, roof_flat`
+`mc.setBlocks(x, y+14, z-5, x, y+14, z+5, stairs_cobblestone`
 
-Now the sides
+Now the sides( choose the block type your team has selected for the ceiling and put it at the very end)
 
 `for i in range(4):`
-    `mc.setBlocks(x-1-i, y+13-i, z-5, x+1+i, y+13-i, z-5, brick)`
+
+    `mc.setBlocks(x-1-i, y+13-i, z-5, x+1+i, y+13-i, z-5,)`
+    
 `for i in range(4):`
-    `mc.setBlocks(x-1-i, y+13-i, z+5, x+1+i, y+13-i, z+5, brick)`
+
+    `mc.setBlocks(x-1-i, y+13-i, z+5, x+1+i, y+13-i, z+5,)`
     
 ### Now your house is complete. CONGRAJULATIONS!!!!!!!!
 
-Example: this is Jon Witt's (maker of the code) house build.
+Example: this is Jon Witt's (maker of the code) house build. (This should be what the code looks like if done right)
 
  https://gist.github.com/jonwitts/2ac5b12d7231a95f959f0fabd17cd66b

@@ -1,6 +1,7 @@
 # Team Logan: Install minecraft to code a working analog clock, and Build a House.
 
 Instruction Borrowed:
+
 https://www.stuffaboutcode.com/p/minecraft.html
 
 # Materials List
@@ -58,13 +59,16 @@ Open the Terminal and type in the following code
 
 `python minecraft-clock.py`
 
-This code is used to download the code directly from https://github.com/martinohanlon/minecraft-clock.git.
+This code is used to download the code directly from
+
+https://github.com/martinohanlon/minecraft-clock.git.
 
 # Build Your House in Minecraft
 
 ### Getting Started
 
 Instructions borrowed: 
+
 https://gist.github.com/jonwitts/2ac5b12d7231a95f959f0fabd17cd66b
 
 (Open Thonny PythonIDE)

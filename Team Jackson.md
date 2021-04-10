@@ -18,6 +18,12 @@ To open Scratch navigate to Menu->Programming->Scratch
 
 After this you are ready to start.
 
+### Caleb's scratch game
+
+This is a scratch game that Caleb has made. try this out to get a feel of what a end product should look like.
+
+https://scratch.mit.edu/projects/371809825/
+
 ### Pac-Man 
 
 To get started first we have to make sprites for the game.
@@ -65,17 +71,9 @@ Now lets do the animation for Pac-Man when he get eaten
 
 ![image](https://user-images.githubusercontent.com/79220393/114257885-dbfc0880-9990-11eb-9e17-d22f34aa06c5.png)
 
-Pac-Man's Main script
-
-
-
 Point Pellet Script
 
 ![image](https://user-images.githubusercontent.com/79220393/114257901-08178980-9991-11eb-8159-4a86228beb0f.png)
-
-Ghost costumes
-
-![image](https://user-images.githubusercontent.com/79220393/114257922-24b3c180-9991-11eb-847a-c93aec141b4e.png)
 
 power Up script
 
@@ -85,5 +83,24 @@ Gameover Script
 
 ![image](https://user-images.githubusercontent.com/79220393/114257954-5462c980-9991-11eb-92ff-40360a4405fc.png)
 
+Ghost costumes
+
+![image](https://user-images.githubusercontent.com/79220393/114257922-24b3c180-9991-11eb-847a-c93aec141b4e.png)
+
+Ghost costume script
+
+![image](https://user-images.githubusercontent.com/79220393/114258003-a6a3ea80-9991-11eb-8ec7-013942c90e61.png)
+
+Ghost scared script
+
+![image](https://user-images.githubusercontent.com/79220393/114258028-cb985d80-9991-11eb-8ecb-b694e053c0e9.png)
+
+Ghost main script
+
+![image](https://user-images.githubusercontent.com/79220393/114258046-eb2f8600-9991-11eb-917e-1d4054bc3341.png)
+
+![image](https://user-images.githubusercontent.com/79220393/114258056-f5ea1b00-9991-11eb-8139-e2812debaad1.png)
+
+### Congrats if you have follwed all the steps correctly everything should work. Now you have to figure out the controls.
 
 

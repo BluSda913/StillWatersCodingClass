@@ -49,3 +49,22 @@ After this lets work on Pac-Man
 Click on the Pac-Man sprite scripts and click the can rotate.
 After go to costumes, he needs 7 costumes, name the costumes accordingly.
 ![Screenshot 2021-04-09 235840](https://user-images.githubusercontent.com/79220393/114257668-870bc280-998f-11eb-963f-af58996f25ba.png)
+
+follow this to anitmate Pac-Man
+
+Pac-Man's Script
+
+![image](https://user-images.githubusercontent.com/79220393/114257718-dbaf3d80-998f-11eb-94c3-5d429fd44ea5.png)
+
+Pac-Man's Animation 
+
+![image](https://user-images.githubusercontent.com/79220393/114257754-144f1700-9990-11eb-87e0-2e658a04df2e.png)
+
+Now lets do the animation for Pac-Man when he get eaten
+
+![image](https://user-images.githubusercontent.com/79220393/114257794-3cd71100-9990-11eb-909a-ff3f87a11db9.png)
+
+
+
+
+

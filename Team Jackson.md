@@ -48,23 +48,42 @@ After this lets work on Pac-Man
 
 Click on the Pac-Man sprite scripts and click the can rotate.
 After go to costumes, he needs 7 costumes, name the costumes accordingly.
-![Screenshot 2021-04-09 235840](https://user-images.githubusercontent.com/79220393/114257668-870bc280-998f-11eb-963f-af58996f25ba.png)
 
-follow this to anitmate Pac-Man
+![image](https://user-images.githubusercontent.com/79220393/114257845-9f301180-9990-11eb-914b-7cacb7501b40.png)
 
 Pac-Man's Script
 
-![image](https://user-images.githubusercontent.com/79220393/114257718-dbaf3d80-998f-11eb-94c3-5d429fd44ea5.png)
+![image](https://user-images.githubusercontent.com/79220393/114257866-c4bd1b00-9990-11eb-9ba1-86800d0278f0.png)
+
 
 Pac-Man's Animation 
 
-![image](https://user-images.githubusercontent.com/79220393/114257754-144f1700-9990-11eb-87e0-2e658a04df2e.png)
+![image](https://user-images.githubusercontent.com/79220393/114257877-d0104680-9990-11eb-8dde-6ff4b8238b99.png)
+
 
 Now lets do the animation for Pac-Man when he get eaten
 
-![image](https://user-images.githubusercontent.com/79220393/114257794-3cd71100-9990-11eb-909a-ff3f87a11db9.png)
+![image](https://user-images.githubusercontent.com/79220393/114257885-dbfc0880-9990-11eb-9e17-d22f34aa06c5.png)
+
+Pac-Man's Main script
 
 
+
+Point Pellet Script
+
+![image](https://user-images.githubusercontent.com/79220393/114257901-08178980-9991-11eb-8159-4a86228beb0f.png)
+
+Ghost costumes
+
+![image](https://user-images.githubusercontent.com/79220393/114257922-24b3c180-9991-11eb-847a-c93aec141b4e.png)
+
+power Up script
+
+![image](https://user-images.githubusercontent.com/79220393/114257937-3a28eb80-9991-11eb-9d88-bf8b7133ca6a.png)
+
+Gameover Script
+
+![image](https://user-images.githubusercontent.com/79220393/114257954-5462c980-9991-11eb-92ff-40360a4405fc.png)
 
 
 

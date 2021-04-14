@@ -12,4 +12,4 @@ Figure out how to use the NXT and the legos to create a domino effect that in th
 
 It has to be a long chain effect so you can get full credit for the project.
 
-You have to have at least three or more things built and programmed to help with the domino set up.
+You have to have at least three or more things built with NXT legos and have it programmed to help with the domino set up.

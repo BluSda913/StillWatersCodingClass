@@ -40,5 +40,5 @@ Good Luck Programming Have fun!!!!!!
 
 ### Ideas for Domino set up
 [Domino idea 1](https://user-images.githubusercontent.com/74376084/114774623-60a6a800-9d3e-11eb-99db-e9980347204b.jpg)
-[Domino idea 2](https://user-images.githubusercontent.com/74376084/114774828-9d729f00-9d3e-11eb-87a8-9f88dbb826b3.jpg)
 
+[Domino idea 2](https://user-images.githubusercontent.com/74376084/114774828-9d729f00-9d3e-11eb-87a8-9f88dbb826b3.jpg)
